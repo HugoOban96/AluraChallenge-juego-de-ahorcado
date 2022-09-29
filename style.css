@@ -1,0 +1,87 @@
+/* página principal*/
+body{
+    margin:0%;
+    width: 1440px;
+    height: 1024px;
+    background: #F3F5FC;
+}
+.logo{
+    margin-top: 40px;
+    margin-left: 84px;
+}
+h1{
+    text-align: center;
+    font-size: 24px;
+}
+div {
+    margin: 402px 562px 403px 561px;
+    padding: 50px;
+    width: 317px;
+    height: 219px;
+}
+#startGame{
+    width: 317px;
+    height: 114px;
+    border-radius: 24px;
+    background: #0A3871;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    color: #FFFFFF;
+
+}
+#agregarPalabra{
+    width: 280px;
+    height: 67px;
+    border-radius: 24px;
+    margin-top: 38px;
+    margin-left: 19px;
+    color: #0A3871;
+}
+
+/*agregar palabras*/
+legend{
+    margin-bottom: 10px;
+}
+.bottom{
+    width: 688px;
+    height: 67px;
+    margin-left: 600px;
+    margin-top: 400px;
+}
+
+#save{
+    width: 332px;
+    height: 67px;
+    background: #0A3871;
+    border-radius: 24px;
+}
+
+#canceled{
+    width: 332px;
+    height: 67px;
+    border-radius: 24px;
+    background: #FFFFFF;
+}
+
+#textSave{
+    width: 688px;
+    height: 67px;
+    float: left;
+    margin-top: 109px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 35px;
+    line-height: 150%;
+    text-align: center;
+    color: #495057;
+    border: none;
+    outline: none;
+}
+
+footer{
+    font-size: 25px;
+    text-align: center;
+}

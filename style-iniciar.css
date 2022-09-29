@@ -1,0 +1,83 @@
+body{
+    margin:0%;
+    width: 1440px;
+    height: 1024px;
+    background: #F3F5FC;
+}
+.logo{
+    margin-top: 40px;
+    margin-left: 84px;
+}
+
+.dibujo{
+    margin-top: 152px;
+    margin-left: 573px;
+    margin-bottom: 120px;
+}
+
+#canvas{
+    margin-top: 148px;
+    background-repeat: space;
+}
+.deletrearAcierto{
+    width: 1440px;
+    height: 152px;
+    text-align: center;
+}
+.letrasAcierto{
+    display: inline-block;
+    width: 75px;
+    height: 75px;
+    vertical-align: middle;
+    text-align: center;
+    font-size: 30px;
+    color: #0A3871;
+    border-bottom: solid 1px #0A3871;
+    margin-left: 7px;
+    line-height: 7px;
+}
+.deletrearErrado{
+    width: 136px;
+    height: 36px;
+    margin-top: 19px;
+    margin-left: 652px;
+    margin-bottom: 160px;
+}
+
+.letrasErrado{
+    text-align: center;
+    color: black;
+    font-size: 15px;
+    margin-left: 15px;
+}
+.set{
+    width: 688px;
+    height: 67px;
+    left: 488px;
+    top: 628px;
+    margin-left: 376px;
+    margin-bottom: 400px;
+}
+
+#new{
+    width: 332px;
+    height: 67px;
+    background: #0A3871;
+    border-radius: 24px;
+}
+
+#out{
+    width: 332px;
+    height: 67px;
+    background: #FFFFFF;
+    border-radius: 24px;
+}
+
+
+
+
+
+footer{
+    font-size: 25px;
+    text-align: center;
+}
